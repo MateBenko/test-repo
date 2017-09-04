@@ -1,3 +1,10 @@
+author: Mate;
+date: 2017.09.04;
+pic: www.google.com;
+topic: random;
+title: I am a random title
+===
+
 # Heading 2
  
 ## Sub-heading
